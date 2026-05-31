@@ -1,0 +1,6 @@
+{
+  "name": "CleanAI",
+  "description": "AI-Powered Logo, Watermark, and Object Remover for Images & Videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
